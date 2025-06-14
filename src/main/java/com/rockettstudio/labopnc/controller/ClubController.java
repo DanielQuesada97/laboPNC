@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/controller")
+@RequestMapping("/api/club")
 @RequiredArgsConstructor
 public class ClubController {
 
