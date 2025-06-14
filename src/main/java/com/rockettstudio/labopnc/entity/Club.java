@@ -25,7 +25,7 @@ public class Club {
     private String country;
 
     @Column(length = 50)
-    private String price;
+    private String coach;
 
     @Column(nullable = false)
     private Integer titles;
